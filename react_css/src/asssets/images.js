@@ -1,0 +1,1 @@
+export const background_image = require('./image/Rectangle 1965.png')
